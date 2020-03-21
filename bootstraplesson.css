@@ -1,0 +1,18 @@
+.col-sm-4 {
+  border: 1px #ccc solid;
+  background-color: yellow;
+  text-align: center;
+}
+
+.col-sm-6{
+	border: 1px #ccc solid;
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+.col-sm-3{
+	border: 1px #ccc solid;
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
